@@ -1,0 +1,14 @@
+id,nombre,tipo,localidad,lat,lon,descripcion
+E_KEN,Emergencia simulada - Kennedy,emergencia,Kennedy,4.6260,-74.1520,Punto de inicio de una emergencia medica simulada para Fase 1
+N_AMER68,Av Americas x Carrera 68,interseccion,Kennedy,4.6300,-74.1270,Nodo vial de conexion occidental
+N_BOY1M,Av Boyaca x Primero de Mayo,interseccion,Kennedy,4.6150,-74.1390,Nodo vial hacia red arterial occidental
+N_NQS26,NQS x Calle 26,interseccion,Teusaquillo,4.6305,-74.0785,Nodo vial central norte-sur
+N_NQS45,NQS x Calle 45,interseccion,Teusaquillo,4.6380,-74.0720,Nodo vial de conexion hacia Chapinero
+N_CAR1,Av Caracas x Calle 1,interseccion,Antonio Narino,4.5860,-74.0910,Nodo vial de conexion hacia hospitales del suroriente
+N_CAR45,Av Caracas x Calle 45,interseccion,Chapinero,4.6310,-74.0660,Nodo vial hacia zona universitaria/hospitalaria
+N_7_45,Carrera 7 x Calle 45,interseccion,Chapinero,4.6280,-74.0630,Nodo vial cercano a San Ignacio
+H_BAS,Centro de atencion basica Kennedy,hospital,Kennedy,4.6245,-74.1460,Punto asistencial basico usado para comparar cercania contra adecuacion del servicio
+H_KEN,Hospital Occidente de Kennedy,hospital,Kennedy,4.6268,-74.1539,Centro de atencion con servicio de urgencias en el occidente de la ciudad
+H_SAN,Hospital Universitario San Ignacio,hospital,Chapinero,4.6286,-74.0647,Centro hospitalario de referencia en Chapinero
+H_STA,Hospital Santa Clara,hospital,Antonio Narino,4.5857,-74.0904,Centro hospitalario con atencion de urgencias en zona suroriental
+H_SIM,Hospital Simon Bolivar,hospital,Usaquen,4.7100,-74.0555,Centro hospitalario de referencia en el norte

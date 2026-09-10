@@ -1,0 +1,6 @@
+id_hospital,prestador,sede,direccion,grupo_servicio,basico,medicalizado,urgencias,nivel_adecuacion,fuente_base
+H_BAS,Centro de atencion basica Kennedy,Sede Kennedy,Kennedy,Servicio basico de atencion,si,no,si,1,Secretaria Distrital de Salud - Servicios de Urgencias y Ambulancias 2026
+H_KEN,Hospital Occidente de Kennedy,Sede principal,Kennedy,Servicios de urgencias y transporte asistencial,si,si,si,5,Secretaria Distrital de Salud - Servicios de Urgencias y Ambulancias 2026
+H_SAN,Hospital Universitario San Ignacio,Sede principal,Chapinero,Servicios de urgencias,si,si,si,5,Secretaria Distrital de Salud - Servicios de Urgencias y Ambulancias 2026
+H_STA,Hospital Santa Clara,Sede principal,Antonio Narino,Servicios de urgencias,si,si,si,5,Secretaria Distrital de Salud - Servicios de Urgencias y Ambulancias 2026
+H_SIM,Hospital Simon Bolivar,Sede principal,Usaquen,Servicios de urgencias,si,si,si,5,Secretaria Distrital de Salud - Servicios de Urgencias y Ambulancias 2026

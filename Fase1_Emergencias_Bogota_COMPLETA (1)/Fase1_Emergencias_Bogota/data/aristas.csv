@@ -1,0 +1,17 @@
+origen,destino,distancia_km,tiempo_min,semaforos,disponible,tipo_via,observacion
+E_KEN,H_BAS,0.7,5,2,si,vial_acceso,Acceso a punto asistencial basico cercano
+E_KEN,H_KEN,1.6,7,4,si,vial_acceso,Acceso directo al hospital integral mas cercano
+E_KEN,N_AMER68,2.2,9,5,si,arterial,Salida por corredor Av Americas
+E_KEN,N_BOY1M,2.8,11,6,si,arterial,Salida alterna por Av Boyaca
+N_AMER68,N_NQS26,6.4,20,12,si,arterial,Conecta occidente con centro por corredor arterial
+N_BOY1M,N_CAR1,7.5,24,14,si,arterial,Conecta suroccidente con suroriente
+N_NQS26,N_NQS45,1.4,6,4,si,arterial,Conexion sobre NQS
+N_NQS45,N_CAR45,1.2,5,3,si,arterial,Conexion hacia Caracas
+N_CAR45,N_7_45,0.6,3,2,si,vial_local,Acceso a zona hospitalaria de Chapinero
+N_7_45,H_SAN,0.4,3,1,si,vial_local,Acceso final a San Ignacio
+N_CAR1,H_STA,0.5,3,1,si,vial_local,Acceso final a Santa Clara
+N_CAR1,N_CAR45,5.4,18,10,si,arterial,Conexion norte-sur por Caracas
+N_CAR45,H_STA,5.8,19,11,si,arterial,Ruta alterna desde Chapinero hacia Santa Clara
+N_CAR45,H_SIM,8.5,25,13,si,arterial,Conexion hacia hospital del norte
+N_7_45,H_SIM,8.9,26,12,si,arterial,Ruta norte por carrera 7
+N_AMER68,N_BOY1M,3.0,10,7,si,arterial,Interconexion occidental

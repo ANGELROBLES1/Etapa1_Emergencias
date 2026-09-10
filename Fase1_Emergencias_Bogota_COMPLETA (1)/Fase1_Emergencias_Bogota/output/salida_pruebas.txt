@@ -1,0 +1,30 @@
+========== RESUMEN DEL ENTORNO ==========
+{'nodos': 13, 'aristas': 16, 'hospitales': 5}
+
+========== PRUEBA 1: Ruta normal ==========
+Hospital seleccionado: Hospital Occidente de Kennedy
+Ruta: E_KEN -> H_KEN
+Ruta detallada: Emergencia simulada - Kennedy -> Hospital Occidente de Kennedy
+Distancia total: 1.6 km
+Tiempo estimado: 7.0 min
+Semaforos estimados: 4
+Costo combinado: 0.975
+Utilidad ajustada: -0.275
+
+========== PRUEBA 2: Comparacion por criterio ==========
+Centro mas cercano por distancia: H_BAS (0.7 km)
+Centro elegido por utilidad: H_KEN (utilidad -0.275)
+Interpretacion: el agente puede considerar tiempo, semaforos, demanda local y adecuacion del servicio, no solo distancia.
+
+========== PRUEBA 3: Bloqueo dinamico ==========
+Se bloquearon los accesos E_KEN - H_KEN y E_KEN - H_BAS para simular afectacion en la zona cercana.
+Hospital seleccionado: Hospital Santa Clara
+Ruta: E_KEN -> N_BOY1M -> N_CAR1 -> H_STA
+Ruta detallada: Emergencia simulada - Kennedy -> Av Boyaca x Primero de Mayo -> Av Caracas x Calle 1 -> Hospital Santa Clara
+Distancia total: 10.8 km
+Tiempo estimado: 38.0 min
+Semaforos estimados: 21
+Costo combinado: 5.715
+Utilidad ajustada: 4.465
+
+Interpretacion: el agente percibe que la conexion ya no esta disponible y recalcula una ruta valida.
