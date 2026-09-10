@@ -65,5 +65,5 @@ python src/visualizar.py
 2. Comparacion entre seleccion por distancia y seleccion por utilidad.
 3. Recalculo de ruta ante bloqueo dinamico de vias cercanas.
 
-## Nota metodologica
+## Nota
 El repositorio incluye un dataset inicial normalizado y reducido para Fase 1. La entrega documenta las fuentes oficiales verificadas para ampliar el proyecto con los datos completos en Fase 2 y Fase 3.
